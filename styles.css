@@ -1,0 +1,21 @@
+.odd {
+    background-color: pink;
+    font-family:Verdana,sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#cooler{
+    font-size: 24px;
+}
+
+.green {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight:bold;
+
+}
